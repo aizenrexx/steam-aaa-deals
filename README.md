@@ -1,3 +1,13 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner.svg">
+  <img src="docs/assets/banner.svg" alt="steam-aaa-deals - AAA and AA Steam titles at 80-100% off, under $10" width="100%">
+</picture>
+
+</div>
+
 # Steam AAA/AA Deals — 80–100% off, under $10
 
 Auto-generated Steam sale list, filtered to **AAA/AA games only** at **80–100% discount** with a final price **under $10**.
@@ -20,7 +30,7 @@ Tier is based on the **original list price** *and* the **Steam user-review count
 DLC, soundtracks, packs and upgrades are excluded. Prices are USD, Steam region BD.
 
 ## Live page
-Published via GitHub Pages (see `.github/workflows/pages.yml`).
+Published with GitHub Pages straight from this branch: **[aizenrexx.github.io/steam-aaa-deals](https://aizenrexx.github.io/steam-aaa-deals/)**. It is one static page, so you can also just open `index.html` locally - no build step, no server.
 
 ## Note
 Sale prices change at any time — this is a snapshot taken from the Steam sale listing.
