@@ -30,7 +30,9 @@ Tier is based on the **original list price** *and* the **Steam user-review count
 DLC, soundtracks, packs and upgrades are excluded. Prices are USD, Steam region BD.
 
 ## Live page
-Published with GitHub Pages straight from this branch: **[aizenrexx.github.io/steam-aaa-deals](https://aizenrexx.github.io/steam-aaa-deals/)**. It is one static page, so you can also just open `index.html` locally - no build step, no server.
+Served by GitHub Pages straight from this branch - **[aizenrexx.github.io/steam-aaa-deals](https://aizenrexx.github.io/steam-aaa-deals/)**, which GitHub redirects to the repo's custom domain, `deals.nullcove.com`.
+
+`index.html` is a single static file, so you can also just open it locally - no build step and no server needed.
 
 ## Note
 Sale prices change at any time — this is a snapshot taken from the Steam sale listing.
